@@ -1,0 +1,7 @@
+{
+    "currentMode": "selfConsumption",
+    "busbarRating": 40,
+    "breakerRating": 40,
+    "exportLimitA": 6,
+    "socThreshold": 5
+}

@@ -1,0 +1,16 @@
+{
+    "deviceId": "01HX8EY4593PPG01C2PTQRZQK5",
+    "deviceType": "INVERTER",
+    "sn": "96142311101361",
+    "model": "InfiniSolar WP 12KW Optimum",
+    "connection": 1,
+    "faultDescription": "",
+    "warnDescription": "Grid voltage low loss,Grid frequency low loss,AC input voltage loss,AC input frequency loss,AC input phase dislocation,AC input wave loss",
+    "detail": {
+        "batteryStatus": 0,
+        "ctStatus": 0,
+        "gridStatus": 0,
+        "mode": -1,
+        "pvStatus": 0
+    }
+}

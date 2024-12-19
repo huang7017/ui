@@ -1,0 +1,16 @@
+{
+    "deviceId": "01J15WG9MEXQZTQ8E1F6VS5QZK",
+    "deviceType": "IPC",
+    "sn": "KSA6549661",
+    "model": "ARK-1124",
+    "connection": 1,
+    "faultDescription": "",
+    "warnDescription": "",
+    "detail": {
+        "diskCapacityGb": 294,
+        "memoryMb": 8164,
+        "modelName": "",
+        "os": "Ubuntu 22.04.3 LTS",
+        "processor": "Intel(R) Celeron(R) CPU N3350 @ 1.10GHz"
+    }
+}

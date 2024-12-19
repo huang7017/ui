@@ -1,0 +1,17 @@
+{
+    "deviceId": "01HX8EY47KJK4PEPFV5Q8N1Y2Y",
+    "deviceType": "BATTERY",
+    "sn": "ZE23060-01-2345-00004",
+    "model": "RESS-BS-19.8-L0",
+    "connection": 1,
+    "faultDescription": "",
+    "warnDescription": "",
+    "detail": {
+        "batteryType": "Li-ion",
+        "nominalCapacityAh": 390,
+        "sohPct": 0,
+        "socPct": 0,
+        "currentA": 0,
+        "voltageV": 0
+    }
+}

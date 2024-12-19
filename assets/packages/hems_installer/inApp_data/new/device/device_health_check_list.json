@@ -1,0 +1,30 @@
+{
+    "__typename": "site",
+    "devices": [
+      {
+        "__typename": "device",
+        "device_id": "f66015fe-514f-4af2-9fa7-8e6bd1b3440f",
+        "connection_status": "connected",
+        "asset_type": "hybrid_inverter",
+        "serial_number": "96142406101189",
+        "model": "InfiniSolar WP LV 12KW Optimum"
+      },
+      {
+        "__typename": "device",
+        "device_id": "e3eb8d5c-0761-410a-9be7-79f895f2e83b",
+        "connection_status": "connected",
+        "asset_type": "ev_charger",
+        "serial_number": "W1-1962-5A10-6-2307-00067",
+        "model": "W1-1962-3TR1"
+      }
+    ],
+    "edges": [
+      {
+        "__typename": "edge",
+        "connection_status": "connected",
+        "model": "EPC-R3220",
+        "edge_id": "KSA4693817"
+      }
+    ]
+}
+  

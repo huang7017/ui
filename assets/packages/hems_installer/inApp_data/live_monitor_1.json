@@ -1,0 +1,32 @@
+{
+  "dataTime": "20240627064250",
+  "SOLAR": {
+    "generating": 0.252
+  },
+  "GRID": {
+    "supplying": 0.796
+  },
+  "BATTERY": {
+    "charging": -0.14,
+    "remainPct": 80,
+    "status": 0,
+    "faultDescription": "",
+    "warnDescription": ""
+  },
+  "HOME": {
+    "consuming": 1.062
+  },
+  "CIRCUIT": [],
+  "INVERTER": {
+    "mode": 0,
+    "status": 0,
+    "faultDescription": "",
+    "warnDescription": ""
+  },
+  "EVSE": {
+    "supplying": 2.1,
+    "status": 0,
+    "faultDescription": "",
+    "warnDescription": ""
+  }
+}

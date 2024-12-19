@@ -886,7 +886,7 @@ var $async$a0J=A.Y(function(b,c){if(b===1)return A.U(c,r)
 while(true)switch(s){case 0:n={}
 l=t.BI
 s=3
-return A.a6(A.xu(a.AQ("FontManifest.json")),$async$a0J)
+return A.a6(A.xu(a.AQ("ui/FontManifest.json")),$async$a0J)
 case 3:m=l.a(c)
 if(!m.gGS()){$.e_().$1("Font manifest does not exist at `"+m.a+"` - ignoring.")
 q=new A.zv(A.b([],t.z8))
